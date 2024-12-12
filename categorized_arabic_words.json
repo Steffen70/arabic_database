@@ -17608,5 +17608,95 @@
     "number": null,
     "translation": "I stay up, you (male singular) stay up",
     "arabic_word": "أنا أسهرأنتَ تسهر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحصل",
+    "tense": "Present simple",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "happens",
+    "arabic_word": "يَحصُل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتَأَخَّر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He is late",
+    "arabic_word": "يَتأخَّر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتفضل",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Please come in",
+    "arabic_word": "تَفَضَّل"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينتهي",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he finishes",
+    "arabic_word": "يَنتَهِي"
+  },
+  {
+    "category": "adjective",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": null,
+    "translation": "next",
+    "arabic_word": "القادِم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُحْضِر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He brings",
+    "arabic_word": "يُحضِر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعمل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he works",
+    "arabic_word": "يِعمِل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَدْفَعُ",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Pay",
+    "arabic_word": "اِدفَع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَستَطيع",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "can",
+    "arabic_word": "يَستَطيع"
   }
 ]
