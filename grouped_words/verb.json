@@ -1,0 +1,4552 @@
+[
+  {
+    "category": "verb",
+    "base_form": "يتزوج",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We got married",
+    "arabic_word": "تَزوجنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَعْرِف",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he knows",
+    "arabic_word": "يِعرِف"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتأخر",
+    "tense": "Past continuous",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you were being late",
+    "arabic_word": "كُنتَ تَتأخَّر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَسْأَلُ",
+    "tense": "Past simple",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "asked",
+    "arabic_word": "سَأَلَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصون",
+    "tense": "Present simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you maintain",
+    "arabic_word": "تَصونين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشعُر",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We feel",
+    "arabic_word": "نَشعُرُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُشاهِد",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he watches",
+    "arabic_word": "يُشاهِد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يوظف",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They employ",
+    "arabic_word": "هم يوظفون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتأخر",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you were late",
+    "arabic_word": "تأخَّرتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشعر",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you felt",
+    "arabic_word": "شعَرتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصنع",
+    "tense": "Present simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you make",
+    "arabic_word": "تَصنَع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يمطر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "it rains",
+    "arabic_word": "يُمطَر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتأخر",
+    "tense": "Present simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I am late",
+    "arabic_word": "أتأخَّر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يقول",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "it is said",
+    "arabic_word": "يُقال"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكون",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I was",
+    "arabic_word": "كُنتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يركّز",
+    "tense": "Imperative",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "Focus",
+    "arabic_word": "ركِّزوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصون",
+    "tense": "Present simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I preserve",
+    "arabic_word": "أصون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَبِيع",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I sold",
+    "arabic_word": "بَعْتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينام",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "slept",
+    "arabic_word": "نَام"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَزِنُ",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we weighed",
+    "arabic_word": "وَزَنْنَا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَنتَظِر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he waits",
+    "arabic_word": "يَنتَظِر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَرَكِّز",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we focused",
+    "arabic_word": "رَكِّزنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَكُونُ",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Be",
+    "arabic_word": "كُن"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُلُ",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they eat",
+    "arabic_word": "يَأْكُلُونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُوَزِّنُ",
+    "tense": "Future",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We will weigh",
+    "arabic_word": "سَنُوَزِّنُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصون",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) protect",
+    "arabic_word": "تَصونون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Future",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They will sell",
+    "arabic_word": "سَيَبِيعُونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفيد",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "benefited",
+    "arabic_word": "فاد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يوزن",
+    "tense": "Future",
+    "possession": "second person singular feminine",
+    "gender": null,
+    "number": null,
+    "translation": "you (female) will weigh",
+    "arabic_word": "سَتُوَزِّنِينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشتم",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "He insulted us",
+    "arabic_word": "شتَمنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَنَام",
+    "tense": "Future",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He will sleep",
+    "arabic_word": "سَيَنام"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصوم",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They fasted",
+    "arabic_word": "صامُوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعطي",
+    "tense": "Past continuous",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I was giving",
+    "arabic_word": "كنتُ أُعطي"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُجَمِّل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "beautifies",
+    "arabic_word": "يُجَمِّل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكون",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "to be",
+    "arabic_word": "يَكُون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفتقد",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he misses",
+    "arabic_word": "يَفتَقِد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفوز",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "won",
+    "arabic_word": "فاز"
+  },
+  {
+    "category": "verb",
+    "base_form": "يضيب",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "melt",
+    "arabic_word": "ضُوبِ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكنس",
+    "tense": "Imperative",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I sweep",
+    "arabic_word": "أكنُس"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينام",
+    "tense": "Present simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you sleep",
+    "arabic_word": "تنامين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشتري",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he buys",
+    "arabic_word": "يشتري"
+  },
+  {
+    "category": "verb",
+    "base_form": "يستيقظ",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he wakes up",
+    "arabic_word": "يَستيْقِظ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُلُ",
+    "tense": "Future",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We will eat",
+    "arabic_word": "سَنَأْكُلُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحزن",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We became sad",
+    "arabic_word": "حزَنّا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يأكل",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You (plural) ate",
+    "arabic_word": "أَكَلْتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتَزوَّج",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he marries",
+    "arabic_word": "يَتَزوَّج"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَسكُن",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he lives",
+    "arabic_word": "يَسكُن"
+  },
+  {
+    "category": "verb",
+    "base_form": "يستعين",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We seek help",
+    "arabic_word": "نَستعِين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَصُون",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he protects",
+    "arabic_word": "يَصُون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَعرِف",
+    "tense": "Imperative",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "Know",
+    "arabic_word": "اِعرَفي"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكنس",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we swept",
+    "arabic_word": "كنَسنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we procrastinate",
+    "arabic_word": "نَتكاسَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتكاسَل",
+    "tense": "Present continuous",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they are being lazy",
+    "arabic_word": "يَتكاسَلون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصنع",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "made",
+    "arabic_word": "صنَعَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Present simple",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "you (female) are being lazy",
+    "arabic_word": "تَتكاسَلين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكنس",
+    "tense": "Future",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "You (female) will sweep",
+    "arabic_word": "أنتِ سَتَكنُسينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصوم",
+    "tense": "Past simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "You fasted",
+    "arabic_word": "صُمتَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يأكل",
+    "tense": "Future",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "You will eat",
+    "arabic_word": "سَتَأْكُلُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصنع",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "she made",
+    "arabic_word": "صنَعَتْ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُحاوِل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "tries",
+    "arabic_word": "يُحاوِل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَصرُخ",
+    "tense": "Past simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you shouted",
+    "arabic_word": "صْرَختَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكنس",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You (plural) swept",
+    "arabic_word": "كنَستُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Present simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I am lazy",
+    "arabic_word": "أتكاسَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يوزن",
+    "tense": "Present simple",
+    "possession": "second person singular feminine",
+    "gender": null,
+    "number": null,
+    "translation": "you (female) weigh",
+    "arabic_word": "تُوَزِّنِينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَلِيسُ",
+    "tense": "Past simple",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "is not",
+    "arabic_word": "لَيْسَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَبْنِي",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "was built",
+    "arabic_word": "بُنِي"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُلُ",
+    "tense": "Future",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they will eat",
+    "arabic_word": "سَيَأْكُلُونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَلْتَقِطُ",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he/it picks up",
+    "arabic_word": "يَلتَقِط"
+  },
+  {
+    "category": "verb",
+    "base_form": "يرى",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you saw",
+    "arabic_word": "شُفتم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يروز",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Shell!",
+    "arabic_word": "اروز"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحل",
+    "tense": "Future",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I will solve",
+    "arabic_word": "سأحِل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكون",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we were",
+    "arabic_word": "كُنَّا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يطلب",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he requests",
+    "arabic_word": "يَطلُب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَزِنُ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "weighed",
+    "arabic_word": "وَزَنَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَحزَن",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he grieves",
+    "arabic_word": "يَحزَن"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Past simple",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "You (female) were selling",
+    "arabic_word": "كُنتِ تَبيعين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفتقد",
+    "tense": "Future",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I will miss them",
+    "arabic_word": "سأفتَقِدُهُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشعر",
+    "tense": "Present simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you feel",
+    "arabic_word": "تَشعُرُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Past continuous",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "was selling",
+    "arabic_word": "كان يبيع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشعر",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "felt",
+    "arabic_word": "شعَرَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكون",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "She was",
+    "arabic_word": "كانَتْ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصوم",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You (plural) fasted",
+    "arabic_word": "صُمتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَزِنُ",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you weighed",
+    "arabic_word": "وَزَنْتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We sell",
+    "arabic_word": "نَبِيعُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَذِيع",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he/she/it broadcasts",
+    "arabic_word": "يَذِيع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَغْسِل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he washes",
+    "arabic_word": "يَغْسِل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشعر",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you feel",
+    "arabic_word": "تَشعُرونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُرِيد",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "wants",
+    "arabic_word": "يُرِيد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يركز",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) focused",
+    "arabic_word": "رَكِّزتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يسأل",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You (plural) asked",
+    "arabic_word": "سَأَلتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشتِم",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he insults",
+    "arabic_word": "يَشتْم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَبيع",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he sells",
+    "arabic_word": "يَبِيعُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يلعب",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "played",
+    "arabic_word": "لَعب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصنع",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we made",
+    "arabic_word": "صنعنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشرَب",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We drink",
+    "arabic_word": "نَشرَب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يغلب",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I was defeated",
+    "arabic_word": "غلِبتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعشق",
+    "tense": "Present simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I love you (female)",
+    "arabic_word": "أعشقُكِ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفهم",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I understood",
+    "arabic_word": "فهمتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَسْأَل",
+    "tense": "Present simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I ask",
+    "arabic_word": "أَسأَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يوزن",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We weighed",
+    "arabic_word": "وَزنَّا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكنس",
+    "tense": "Present simple",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "she sweeps",
+    "arabic_word": "تَكنُس"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Present simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I sell",
+    "arabic_word": "آبِيعُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبرمج",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he programs",
+    "arabic_word": "يُبرميج"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَصون",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we preserve",
+    "arabic_word": "نَصون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يقول",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Say",
+    "arabic_word": "قُل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَسأَل",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They ask",
+    "arabic_word": "يَسأَلونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشعر",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They felt",
+    "arabic_word": "شعَروا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَعُودُ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "returned",
+    "arabic_word": "عَادَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَنْقُل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he transfers",
+    "arabic_word": "يَنقِل"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينقل",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) transferred",
+    "arabic_word": "نقَلتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُلُ",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We eat",
+    "arabic_word": "نَأْكُلُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعود",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) returned",
+    "arabic_word": "عُدتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَعُودُ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "She returned",
+    "arabic_word": "عَادَتْ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفقد",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You (feminine plural) lose",
+    "arabic_word": "تَفقِدينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحاول",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we tried",
+    "arabic_word": "حاوَلنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَغلِبُ",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural masculine) overcome",
+    "arabic_word": "تَغلِبونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَضَعُ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he put",
+    "arabic_word": "وَضَع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Future",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He will sell",
+    "arabic_word": "سَيَبِيعُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينقل",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I transferred",
+    "arabic_word": "نقَلتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُوَزِّنُ",
+    "tense": "Future",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He will balance",
+    "arabic_word": "سَيُوَزِّنُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصنع",
+    "tense": "Present simple",
+    "possession": "second person singular feminine",
+    "gender": null,
+    "number": null,
+    "translation": "you (feminine) make",
+    "arabic_word": "تَصنَعين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَبْدَأ",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he/it begins",
+    "arabic_word": "يَبْدَأ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Future",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "You will sell",
+    "arabic_word": "سَتَبِيعُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they sold",
+    "arabic_word": "باعوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُركِّز",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we focus",
+    "arabic_word": "نُركِّز"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُلُ",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We ate",
+    "arabic_word": "أَكَلْنَا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يقرأ",
+    "tense": "Present simple",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "you (female) read",
+    "arabic_word": "تقرَأِين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتأخر",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We are late",
+    "arabic_word": "نَتأخَّر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُوَزِّنُ",
+    "tense": "Future",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I will balance",
+    "arabic_word": "سَأُوَزِّنُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَبِيعُ",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We sold",
+    "arabic_word": "بَعْنَا"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينقل",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We transferred",
+    "arabic_word": "نقَلنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشتِم",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you insult",
+    "arabic_word": "تَشتِمونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يستنيم",
+    "tense": "Future",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You (plural) will sleep",
+    "arabic_word": "ستنَامين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَغلِب",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "prevails or overcomes",
+    "arabic_word": "تَغلِب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتأخر",
+    "tense": "Past continuous",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "You were being late",
+    "arabic_word": "كُنتِ تَتأخَّرين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشرب",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I drank",
+    "arabic_word": "شرَبتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشعُرُ",
+    "tense": "Future",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They will feel",
+    "arabic_word": "هُم سَيَشعُرُونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَفهَم",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he understands",
+    "arabic_word": "يَفهَم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَنقِلُ",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They transport",
+    "arabic_word": "هُم يَنقِلونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُصَلِّي",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He prays",
+    "arabic_word": "يُصَلِّي"
+  },
+  {
+    "category": "verb",
+    "base_form": "يوزن",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) balance",
+    "arabic_word": "تُوَزِّنُون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يقرأ",
+    "tense": "Present simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you read",
+    "arabic_word": "تَقرَأ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكنس",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you sweep",
+    "arabic_word": "تَكنُسينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they sell",
+    "arabic_word": "يَبِيعُونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يرى",
+    "tense": "Past simple",
+    "possession": "second person singular feminine",
+    "gender": null,
+    "number": null,
+    "translation": "You saw",
+    "arabic_word": "شُفتِ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُلُ",
+    "tense": "Future",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "You will eat",
+    "arabic_word": "سَتَأْكُلِينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يغلب",
+    "tense": "Imperative",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "overcome",
+    "arabic_word": "أغلِب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشتم",
+    "tense": "Past simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "You insulted",
+    "arabic_word": "شتَمتَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشعر",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I felt",
+    "arabic_word": "شعَرتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفعل",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they did",
+    "arabic_word": "فعلوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتزوج",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you marry",
+    "arabic_word": "تَزوَّجون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يدفع",
+    "tense": "Imperative",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "Pay",
+    "arabic_word": "اِدفعِي"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَحْزَن",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They were sad",
+    "arabic_word": "حزَنوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَكنُس",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we sweep",
+    "arabic_word": "نَكنُس"
+  },
+  {
+    "category": "verb",
+    "base_form": "يدخر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he saves",
+    "arabic_word": "يَدَّخِر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُل",
+    "tense": "Future",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He will eat",
+    "arabic_word": "سَيَأْكُلُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَفقِد",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you lose",
+    "arabic_word": "تَفقِدونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتزوّج",
+    "tense": "Imperative",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "Marry (plural)",
+    "arabic_word": "تَزوَّجوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We were lazy",
+    "arabic_word": "تَكَسَلنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يسمك",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he strengthened",
+    "arabic_word": "سمَكَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفقد",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we lost",
+    "arabic_word": "فَقدنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُحاوِلُ",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You (plural) try",
+    "arabic_word": "تُحاوِلونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُوَزِّنُ",
+    "tense": "Future",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He/She/It will balance",
+    "arabic_word": "سَتُوَزِّنُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكنس",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They swept",
+    "arabic_word": "كنَسوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُفِيد",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "benefits",
+    "arabic_word": "يُفِيد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يسأل",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) ask",
+    "arabic_word": "تَسأَلونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يقتل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he kills",
+    "arabic_word": "يَقْتَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُوزِنُ",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He balances",
+    "arabic_word": "يُوَزِّنُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَكنُس",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you sweep",
+    "arabic_word": "تَكنُسونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعود",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they returned",
+    "arabic_word": "عَادُوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يجيء",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he comes",
+    "arabic_word": "يَجيء"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحدث",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "to happen",
+    "arabic_word": "يحدثَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يسافر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he travels",
+    "arabic_word": "يُسافِر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشعُر",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they feel",
+    "arabic_word": "يَشعُرونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعيش",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "living",
+    "arabic_word": "عايِش"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُذاكِر",
+    "tense": "Past continuous",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "You were studying",
+    "arabic_word": "كُنتَ تُذاكِر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَسُوق",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he drives",
+    "arabic_word": "يَسُوق"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتأخَّر",
+    "tense": "Present simple",
+    "possession": "second person singular feminine",
+    "gender": null,
+    "number": null,
+    "translation": "you (female) are late",
+    "arabic_word": "تَتأخَّرين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشتري",
+    "tense": "Past simple",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "bought",
+    "arabic_word": "اشترى"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشرب",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We drank",
+    "arabic_word": "شربنَا"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينام",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) sleep",
+    "arabic_word": "تنامون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يهيء",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "prepare",
+    "arabic_word": "هُيَّ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشعُر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he feels",
+    "arabic_word": "يَشعُرُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَعِيش",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Live!",
+    "arabic_word": "عِيشَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُحاوِلُ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "tried",
+    "arabic_word": "حاوَلَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يقول",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They said",
+    "arabic_word": "قالُوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُلُ",
+    "tense": "Present simple",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "you eat",
+    "arabic_word": "تَأْكُلِينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُمْسِك",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he holds",
+    "arabic_word": "يُمْسِك"
+  },
+  {
+    "category": "verb",
+    "base_form": "يسأل",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We ask",
+    "arabic_word": "نَسأَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكنس",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "swept",
+    "arabic_word": "كنَسَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشتُمُ",
+    "tense": "Future",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You (plural) will insult",
+    "arabic_word": "انتُم سَتَشتِمونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُشَاهِدُ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "watched",
+    "arabic_word": "شَاهدَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشرَب",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he drinks",
+    "arabic_word": "يَشرَب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشاهد",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he sees",
+    "arabic_word": "يِشوف"
+  },
+  {
+    "category": "verb",
+    "base_form": "يلعب",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he plays",
+    "arabic_word": "يَلْعَب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يرى",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "saw",
+    "arabic_word": "شافَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفقد",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Lose",
+    "arabic_word": "أفقِد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكذب",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he lies",
+    "arabic_word": "يَكذِب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُحاوِل",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you tried",
+    "arabic_word": "حاوَلتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفقد",
+    "tense": "present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we lose",
+    "arabic_word": "نَفقِد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُلُ",
+    "tense": "Future",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I will eat",
+    "arabic_word": "سَأَكُلُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصوم",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "fasted",
+    "arabic_word": "صام"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَفُوز",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He wins",
+    "arabic_word": "يَفُوز"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتصفّح",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he browses",
+    "arabic_word": "يَتصَفَّح"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتزوّج",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I got married",
+    "arabic_word": "تَزوَّجتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَكنُس",
+    "tense": "Future",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They will sweep",
+    "arabic_word": "هُم سَيَكنُسونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يدفع",
+    "tense": "Imperative",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "Pay",
+    "arabic_word": "اِدفعُوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتزوّج",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He got married",
+    "arabic_word": "تزوَّجَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفهم",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they understood",
+    "arabic_word": "فهَموا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَغلِب",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He overpowers",
+    "arabic_word": "يَغلِب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصنع",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they make",
+    "arabic_word": "يَصنعون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَغلِب",
+    "tense": "Present simple",
+    "possession": "second person singular feminine",
+    "gender": null,
+    "number": null,
+    "translation": "you (feminine singular) overcome",
+    "arabic_word": "تَغلِبينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتأخَّر",
+    "tense": "Past continuous",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They were delaying",
+    "arabic_word": "كَانوا يَتأخَّرون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "sold",
+    "arabic_word": "بَاعَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَزِنُ",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I weighed",
+    "arabic_word": "وَزَنْتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحاول",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they tried",
+    "arabic_word": "حاوَلوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحل",
+    "tense": "Future",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "will resolve",
+    "arabic_word": "ستحل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصنع",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We make",
+    "arabic_word": "نَصنَع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يستعين",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he seeks help",
+    "arabic_word": "يَستعِين"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينام",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they sleep",
+    "arabic_word": "ينامون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصنع",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They made",
+    "arabic_word": "صنعَوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَكنُسُ",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I swept",
+    "arabic_word": "كَنَستُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يؤجر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He rents",
+    "arabic_word": "يُأجِّر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَبِيعُ",
+    "tense": "Present simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you sell",
+    "arabic_word": "تَبِيعُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتَكاسَل",
+    "tense": "Past continuous",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They were being lazy",
+    "arabic_word": "كَانُوا يَتَكاسَلون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُولَدُ",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He is born",
+    "arabic_word": "يُولَدْ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتبرع",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he donates",
+    "arabic_word": "يَتبَرَّع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Sell",
+    "arabic_word": "بِيع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَغْلِبُ",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We were defeated",
+    "arabic_word": "غلِبنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكون",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we were not",
+    "arabic_word": "لَسنَا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفقد",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they lost",
+    "arabic_word": "فَقَدوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَصرُخ",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he screams",
+    "arabic_word": "يَصرُخ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفعل",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I did",
+    "arabic_word": "فعلتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتعلم",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he learns",
+    "arabic_word": "يَتعَلَّم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحاول",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "She/It tries",
+    "arabic_word": "تُحاوِل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَكْوِي",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he/it irons",
+    "arabic_word": "يَكْوِي"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينقل",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they transferred",
+    "arabic_word": "نقَلوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَعشَق",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he loves passionately",
+    "arabic_word": "يَعشَق"
+  },
+  {
+    "category": "verb",
+    "base_form": "يسأل",
+    "tense": "Present simple",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "you (female) ask",
+    "arabic_word": "تَسأَلينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينام",
+    "tense": "Future",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) will sleep",
+    "arabic_word": "ستنامُون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتأخَّر",
+    "tense": "Past continuous",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he was delaying",
+    "arabic_word": "كَانَ يَتأخَّر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَرْجِع",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he returns",
+    "arabic_word": "يَرجَع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصون",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We protected",
+    "arabic_word": "صُنّا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَنتِج",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "produces",
+    "arabic_word": "يُنتِج"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you are lazy",
+    "arabic_word": "تَتكاسَلون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعود",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I returned",
+    "arabic_word": "عُدتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَخْسَر",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "lost",
+    "arabic_word": "خَسر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصوم",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We fasted",
+    "arabic_word": "صُمنَا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يأكل",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "ate",
+    "arabic_word": "أَكَلَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يوزن",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "She/It balances or weighs",
+    "arabic_word": "تُوَزِّنُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكون",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "is not",
+    "arabic_word": "لَيْسَت"
+  },
+  {
+    "category": "verb",
+    "base_form": "يقرأ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "was read",
+    "arabic_word": "قُرِأ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُركِّز",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they focus",
+    "arabic_word": "يُركِّزون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصون",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I protected",
+    "arabic_word": "صُنتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يجلِس",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he sits",
+    "arabic_word": "يِجلِس"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُحاوِل",
+    "tense": "Present simple",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "you try",
+    "arabic_word": "تُحاوِلينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَسرِق",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he steals",
+    "arabic_word": "يَسرِق"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُركِّز",
+    "tense": "Present simple",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "You focus",
+    "arabic_word": "تُركِّزين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتأخر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "is late",
+    "arabic_word": "تَتأخَّرُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصون",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they (masculine) preserved",
+    "arabic_word": "صَانوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكون",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they were",
+    "arabic_word": "كَانُوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يغلِب",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You were defeated",
+    "arabic_word": "غلِبتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصمت",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They were silent",
+    "arabic_word": "صمتُوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشتم",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You insulted",
+    "arabic_word": "شتَمتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يغيّر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he changes",
+    "arabic_word": "يُغَيِّر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكلم",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he speaks",
+    "arabic_word": "يَتكَلَم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Future",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We will sell",
+    "arabic_word": "سَنَبِيعُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعرِف",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "know",
+    "arabic_word": "اِعرَف"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشرَب",
+    "tense": "Present simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you drink",
+    "arabic_word": "تَشرَب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفقد",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you lost",
+    "arabic_word": "فَقَدتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you all were lazy",
+    "arabic_word": "تَكَسَلتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يركّز",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I focused",
+    "arabic_word": "رَكِّزتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَغلِب",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We win",
+    "arabic_word": "نَغلِب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفقد",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "lose",
+    "arabic_word": "تَفقِد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يرتاح",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he/it rests",
+    "arabic_word": "يَرتَاح"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Future",
+    "possession": "second person singular feminine",
+    "gender": null,
+    "number": null,
+    "translation": "You will sell",
+    "arabic_word": "سَتَبِيعِينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَصُونُ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "maintained",
+    "arabic_word": "صَانَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتَوَضَّأ",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He performs ablution",
+    "arabic_word": "يَتَوَضَّأ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يقول",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he says",
+    "arabic_word": "يَقُول"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُوَزِّنُ",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they balance",
+    "arabic_word": "يُوَزِّنُونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكنس",
+    "tense": "Future",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you will sweep",
+    "arabic_word": "انتَ سَتَكنُس"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَفْتَح",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he opens",
+    "arabic_word": "يَفتَح"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُنشِئ",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I established",
+    "arabic_word": "أنشَئتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَجِدُ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "found",
+    "arabic_word": "وَجد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَنظُر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he looks",
+    "arabic_word": "يَنظُر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Past continuous",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I was selling",
+    "arabic_word": "كنتُ أبيع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُنشِئ",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "creates",
+    "arabic_word": "يُنشِيء"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُركّز",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he focuses",
+    "arabic_word": "يُركِّز"
+  },
+  {
+    "category": "verb",
+    "base_form": "يرى",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we saw",
+    "arabic_word": "شُفنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشعر",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we felt",
+    "arabic_word": "شعَرنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَعرِف",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "know (plural imperative)",
+    "arabic_word": "اِعرَفوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفهم",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "understood",
+    "arabic_word": "فَهم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفُضّ",
+    "tense": "Imperative",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "unclear",
+    "arabic_word": "فَضِّي"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُركِّز",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "focuses",
+    "arabic_word": "تُركِّز"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعود",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we returned",
+    "arabic_word": "عُدنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يذبح",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We slaughter",
+    "arabic_word": "نَذبَح"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتأخر",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You are late",
+    "arabic_word": "تَتأخَّرون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَخْسَر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he loses",
+    "arabic_word": "يَخسَر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفقد",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "she lost",
+    "arabic_word": "فَقَدَتْ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصنع",
+    "tense": "Imperative",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "Make",
+    "arabic_word": "أصنَع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَعَضُّ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "bit",
+    "arabic_word": "عَضَّ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Past continuous",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "you were being lazy",
+    "arabic_word": "كُنتِ تَتكاسَلين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَفقِد",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he loses",
+    "arabic_word": "يَفقِد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتأخر",
+    "tense": "Past simple",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "was late",
+    "arabic_word": "تأخَّرَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُحِبّ",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "is loved",
+    "arabic_word": "يُحَب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحاول",
+    "tense": "Past continuous",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They were trying",
+    "arabic_word": "كانوا يُحاوِلونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصون",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "she protected",
+    "arabic_word": "صَانَتْ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعود",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he returns",
+    "arabic_word": "يَعُود"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشرب",
+    "tense": "Present simple",
+    "possession": "second person singular feminine",
+    "gender": null,
+    "number": null,
+    "translation": "you drink",
+    "arabic_word": "تَشربِين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يضع",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he puts",
+    "arabic_word": "يَضَع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُغَيِّر",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we changed",
+    "arabic_word": "غَيَّرنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصون",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "preserves",
+    "arabic_word": "تَصون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يذاكر",
+    "tense": "Imperative",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "Study",
+    "arabic_word": "ذاكِري"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشْرَبُ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "was drunk",
+    "arabic_word": "شُرِبَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينام",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "she sleeps",
+    "arabic_word": "تَنام"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينادي",
+    "tense": "future",
+    "possession": "first person dual",
+    "gender": null,
+    "number": null,
+    "translation": "the two of us will call",
+    "arabic_word": "أنَادِيَان"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحزن",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) were sad",
+    "arabic_word": "حزَنتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصون",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You (plural) protected",
+    "arabic_word": "صُنتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفقد",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They lose",
+    "arabic_word": "يَفقِدونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكون",
+    "tense": "Past simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you were not",
+    "arabic_word": "لستَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يذاكر",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Memorize",
+    "arabic_word": "ذاكر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يذاكر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he studies",
+    "arabic_word": "يُذاكِر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يأخذ",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he takes",
+    "arabic_word": "ياخُذ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَكُون",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "be",
+    "arabic_word": "كُون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكنس",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he sweeps",
+    "arabic_word": "يَكنُس"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصنع",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you made",
+    "arabic_word": "صنعتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشتُم",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we insult",
+    "arabic_word": "نَشتِم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَجِدُ",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he finds",
+    "arabic_word": "يَجِد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشتُم",
+    "tense": "Present continuous",
+    "possession": "second person singular feminine",
+    "gender": null,
+    "number": null,
+    "translation": "you (female) are insulting",
+    "arabic_word": "تَشتِمينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُلُ",
+    "tense": "Present simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I eat",
+    "arabic_word": "آكُلُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفتقد",
+    "tense": "Present simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I miss you",
+    "arabic_word": "أفتَقدِك"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشعر",
+    "tense": "Present simple",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "you feel",
+    "arabic_word": "تَشعُرينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يغلب",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they were defeated",
+    "arabic_word": "غلِبوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَصنَع",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) make",
+    "arabic_word": "تَصنَعون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحل",
+    "tense": "Future",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) will solve",
+    "arabic_word": "ستحلونسيحل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَفْعَل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he does",
+    "arabic_word": "يَفْعَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكون",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You (plural) were not",
+    "arabic_word": "لَستُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتأخَّر",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they are late",
+    "arabic_word": "يَتأخَّرون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يركّز",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Focus",
+    "arabic_word": "ركِّزَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَبِيعُ",
+    "tense": "Past continuous",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They were selling",
+    "arabic_word": "كانُوا يَبِيعُون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يسأل",
+    "tense": "Present simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you ask",
+    "arabic_word": "تَسأَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتكاسَل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "lazes around",
+    "arabic_word": "يَتكاسَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشتِمُ",
+    "tense": "Future",
+    "possession": "second person singular feminine",
+    "gender": null,
+    "number": null,
+    "translation": "You will insult",
+    "arabic_word": "انتِ سَتَشتِمينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفقد",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "lost",
+    "arabic_word": "فَقَدَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يأكل",
+    "tense": "Future",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I will eat you",
+    "arabic_word": "سَأكُلِك"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتم",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) completed",
+    "arabic_word": "تُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَلِدُ",
+    "tense": "Imperative",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "to give birth",
+    "arabic_word": "يَلِدْ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعيش",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he lives",
+    "arabic_word": "يَعِيش"
+  },
+  {
+    "category": "verb",
+    "base_form": "يموت",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he dies",
+    "arabic_word": "يَمُوت"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he was lazy",
+    "arabic_word": "تَكاسَلَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَصنَع",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he makes",
+    "arabic_word": "يَصنَع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يأكل",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Eat",
+    "arabic_word": "أاكَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يغلب",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he was defeated",
+    "arabic_word": "غلِبَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشعر",
+    "tense": "Present simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I feel",
+    "arabic_word": "أشعُرُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُوَزِّنُ",
+    "tense": "Future",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They will balance",
+    "arabic_word": "سَيُوَزِّنُونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُلُ",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) eat",
+    "arabic_word": "تَأْكُلُونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They were lazy",
+    "arabic_word": "تَكاسَلُوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينام",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he sleeps",
+    "arabic_word": "يَنَام"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُفَضِّل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he prefers",
+    "arabic_word": "يُفَضِّل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يقول",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "said",
+    "arabic_word": "قَال"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُوَظِّف",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he employs",
+    "arabic_word": "يُوَظِّف"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَسأَل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He asks",
+    "arabic_word": "يَسأَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُغَيِّر",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) changed",
+    "arabic_word": "غَيرتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you sell",
+    "arabic_word": "تَبِيعُون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يسأل",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "She asked",
+    "arabic_word": "سَأَلَتْ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُغَيِّر",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I changed",
+    "arabic_word": "غَيَّرتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَكون",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they are not",
+    "arabic_word": "لَيْسُوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُجَرِّب",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he tries",
+    "arabic_word": "يُجَرِب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحل",
+    "tense": "Future",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They will resolve",
+    "arabic_word": "سيحلون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكون",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You (plural) were",
+    "arabic_word": "كُنتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يرى",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I saw",
+    "arabic_word": "شُفتُشُفتَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفعل",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you did",
+    "arabic_word": "فعلتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يملك",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He owns",
+    "arabic_word": "يَمْلُك"
+  },
+  {
+    "category": "verb",
+    "base_form": "يسأل",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we asked",
+    "arabic_word": "سَأَلنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُحَاوِلُ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "She tried",
+    "arabic_word": "حاوَلَتْ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Past continuous",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He was being lazy",
+    "arabic_word": "كَانَ يَتَكاسَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتَفاوَض",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he negotiates",
+    "arabic_word": "يَتفاوَض"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتأخر",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They were late",
+    "arabic_word": "تأخَّروا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يذاكر",
+    "tense": "Imperative",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "Study (you all)",
+    "arabic_word": "ذاكِرُوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتَزوَّج",
+    "tense": "Past continuous",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You were getting married",
+    "arabic_word": "كُنتُم تَتَزوَّج"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَرْكَب",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he rides",
+    "arabic_word": "يَركَب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يأكل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he eats",
+    "arabic_word": "يَأْكُلُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَبِيعُ",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you sold",
+    "arabic_word": "بَعْتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعض",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he bites",
+    "arabic_word": "يَعضُّ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "is sold",
+    "arabic_word": "يُباع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتأخر",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We were late",
+    "arabic_word": "تأخَّرنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَكنُس",
+    "tense": "Present continuous",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They sweep",
+    "arabic_word": "يَكنُسونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُلُ",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They ate",
+    "arabic_word": "أَكَلُوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشرب",
+    "tense": "Past simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "You drank",
+    "arabic_word": "شرَبتُم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتأخَّر",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "She was late",
+    "arabic_word": "تأخَّرَتْ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَسْتَحِلّ",
+    "tense": "Future",
+    "possession": "second person singular female",
+    "gender": null,
+    "number": null,
+    "translation": "You (female) will permit",
+    "arabic_word": "ستحِلستحلينسنحل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتَزَوَّجُونَ",
+    "tense": "Past continuous",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They were getting married",
+    "arabic_word": "كَانُوا يَتزوَجُون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يقرأ",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Read",
+    "arabic_word": "أقرَأ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَعْبُد",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he worships",
+    "arabic_word": "يَعْبُد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يوزن",
+    "tense": "Present simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I balance",
+    "arabic_word": "أُوَزِّنُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يغير",
+    "tense": "Imperative",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "change",
+    "arabic_word": "غَيروا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحاول",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We try",
+    "arabic_word": "نُحاوِل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحزن",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He was sad",
+    "arabic_word": "حزَنَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَشتِمُ",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they insult",
+    "arabic_word": "يَشتِمونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَبِيعُ",
+    "tense": "Past simple",
+    "possession": "third person feminine singular",
+    "gender": null,
+    "number": null,
+    "translation": "She sold",
+    "arabic_word": "بَاعَتْ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكون",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "to be",
+    "arabic_word": "يَكُن"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُغادِر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he leaves",
+    "arabic_word": "يُغادِر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشرب",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they drank",
+    "arabic_word": "شَرَبُوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشرِب",
+    "tense": "Imperative",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I drink",
+    "arabic_word": "أشرَب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصوم",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "she fasted",
+    "arabic_word": "صامَت"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُشْرِق",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he/it shines",
+    "arabic_word": "يُشْرَق"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشتم",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "insults",
+    "arabic_word": "تَشتِم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَسْأَل",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "they asked",
+    "arabic_word": "سَأَلوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يشتم",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They insulted",
+    "arabic_word": "شتَموا"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينام",
+    "tense": "Future",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He will sleep",
+    "arabic_word": "سَتنام"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُعِيد",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He/It repeats",
+    "arabic_word": "يَعِيد"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتذَوَّق",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "tastes",
+    "arabic_word": "يَتْذَوَق"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحزن",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I was sad",
+    "arabic_word": "حزَنتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Past continuous",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We were being lazy",
+    "arabic_word": "كُنّا نَتَكاسَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُركِّز",
+    "tense": "Present simple",
+    "possession": "second person plural",
+    "gender": null,
+    "number": null,
+    "translation": "you (plural) focus",
+    "arabic_word": "تُركِّزون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يبيع",
+    "tense": "Past simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you were selling",
+    "arabic_word": "كُنتَ تَبيع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يوزن",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We weigh",
+    "arabic_word": "نُوَزِّنُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُرِيد",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "wants to",
+    "arabic_word": "يُرِيد أن"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Present simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "You are lazy",
+    "arabic_word": "تَتكاسَل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَغلِب",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They overcome",
+    "arabic_word": "يَغلِبونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يقول",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Say",
+    "arabic_word": "قُول"
+  },
+  {
+    "category": "verb",
+    "base_form": "يكون",
+    "tense": "Past simple",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "was",
+    "arabic_word": "كانَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَسهَر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he stays up late",
+    "arabic_word": "يَسهَر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَزِنُ",
+    "tense": "Past simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They weighed",
+    "arabic_word": "وَزَنُوا"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينقل",
+    "tense": "Past simple",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "to transfer or to move",
+    "arabic_word": "نقَلَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يقرأ",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he reads",
+    "arabic_word": "يَقْرَأ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يأتي",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he comes",
+    "arabic_word": "يَأتِي"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَجِيءُ",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "came",
+    "arabic_word": "جاءَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَكتُب",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he writes",
+    "arabic_word": "يَكتُب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَصُوم",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he fasts",
+    "arabic_word": "يَصُوم"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُشَاهِد",
+    "tense": "Present simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you (female) watch",
+    "arabic_word": "أنتِ تُشَاهِدين"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَبِيعُ",
+    "tense": "Present simple",
+    "possession": "second person singular",
+    "gender": null,
+    "number": null,
+    "translation": "you sell",
+    "arabic_word": "تَبِيعِينَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يفعل",
+    "tense": "Past simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "We did",
+    "arabic_word": "فعلنا"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "she was lazy",
+    "arabic_word": "تَكاسَلَتْ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعبد",
+    "tense": "Present simple",
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "we worship",
+    "arabic_word": "نَعبُدُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يأكل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he/she eats",
+    "arabic_word": "تَأْكُلُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُحاوِلُ",
+    "tense": "Present continuous",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They are trying",
+    "arabic_word": "يُحاوِلونَ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتكاسل",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I was lazy",
+    "arabic_word": "تكَسَلتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يصُون",
+    "tense": "Present simple",
+    "possession": "third person plural",
+    "gender": null,
+    "number": null,
+    "translation": "They protect",
+    "arabic_word": "يصُونون"
+  },
+  {
+    "category": "verb",
+    "base_form": "يدفع",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he pays",
+    "arabic_word": "يَدفَع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَدرُس",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he studies",
+    "arabic_word": "يَدرُس"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَأْكُلُ",
+    "tense": "Past simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I ate",
+    "arabic_word": "أَكَلْتُ"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحاول",
+    "tense": "Present simple",
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I try",
+    "arabic_word": "أُحاوِل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَسمَع",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he listens",
+    "arabic_word": "يَسمَع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَذهَب",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he goes",
+    "arabic_word": "يَذهَب"
+  },
+  {
+    "category": "verb",
+    "base_form": "يموت",
+    "tense": "Past simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "died",
+    "arabic_word": "مات"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُعطي",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "gives",
+    "arabic_word": "يُعطي"
+  },
+  {
+    "category": "verb",
+    "base_form": "يحصل",
+    "tense": "Present simple",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "happens",
+    "arabic_word": "يَحصُل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَتَأَخَّر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He is late",
+    "arabic_word": "يَتأخَّر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يتفضل",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Please come in",
+    "arabic_word": "تَفَضَّل"
+  },
+  {
+    "category": "verb",
+    "base_form": "ينتهي",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he finishes",
+    "arabic_word": "يَنتَهِي"
+  },
+  {
+    "category": "verb",
+    "base_form": "يُحْضِر",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "He brings",
+    "arabic_word": "يُحضِر"
+  },
+  {
+    "category": "verb",
+    "base_form": "يعمل",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "he works",
+    "arabic_word": "يِعمِل"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَدْفَعُ",
+    "tense": "Imperative",
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Pay",
+    "arabic_word": "اِدفَع"
+  },
+  {
+    "category": "verb",
+    "base_form": "يَستَطيع",
+    "tense": "Present simple",
+    "possession": "third person singular",
+    "gender": null,
+    "number": null,
+    "translation": "can",
+    "arabic_word": "يَستَطيع"
+  }
+]

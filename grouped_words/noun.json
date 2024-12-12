@@ -1,0 +1,3382 @@
+[
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "her",
+    "gender": "female",
+    "number": "singular",
+    "translation": "her book",
+    "arabic_word": "كِتابْهَا"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "opinion",
+    "arabic_word": "رَأيْ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "residence",
+    "arabic_word": "سَكن"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "mother",
+    "arabic_word": "وَالِدَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "teacher",
+    "arabic_word": "مُدَرِس"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "coat",
+    "arabic_word": "مِعطَف"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "book",
+    "arabic_word": "كِتَاب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "picture",
+    "arabic_word": "صُورَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "second person plural",
+    "gender": "male",
+    "number": "singular",
+    "translation": "your pen",
+    "arabic_word": "قَلمَكُم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "your",
+    "gender": "male",
+    "number": "singular",
+    "translation": "your milk",
+    "arabic_word": "لِلَبنَك"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "application",
+    "arabic_word": "تَطبِيق"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "half",
+    "arabic_word": "نِصَف"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "oven",
+    "arabic_word": "فُرن"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "second person plural",
+    "gender": "male",
+    "number": "singular",
+    "translation": "your name",
+    "arabic_word": "اِسمُكُم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the present (in grammar)",
+    "arabic_word": "مُضَارِع"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the day",
+    "arabic_word": "اليَوْم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "active participle",
+    "arabic_word": "اسِم فاعِل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "name",
+    "arabic_word": "اِسم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "bus",
+    "arabic_word": "حافِلَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "test",
+    "arabic_word": "اِختِبار"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "winner",
+    "arabic_word": "فايِز"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "the sciences",
+    "arabic_word": "العِلُوم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "dual",
+    "translation": "Monday",
+    "arabic_word": "الاثنين"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "grandmother",
+    "arabic_word": "جَدَّة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "box",
+    "arabic_word": "صَندُوق"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "direct object",
+    "arabic_word": "مَفعُول بِه"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "owner",
+    "arabic_word": "مَالِك"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "gratitude",
+    "arabic_word": "شُكر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the weather",
+    "arabic_word": "الجَوْ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "the desert",
+    "arabic_word": "الصحرَاءُ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "sister",
+    "arabic_word": "أُخت"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "country",
+    "arabic_word": "بَلد"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "student",
+    "arabic_word": "طَالِب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "snow",
+    "arabic_word": "ثَلج"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "rent",
+    "arabic_word": "إيجار"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the poet",
+    "arabic_word": "الشاعِر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "third person pronoun",
+    "arabic_word": "ضَمِير الغَائِب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "father",
+    "arabic_word": "أب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "with door",
+    "arabic_word": "بأْب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "your",
+    "gender": "male",
+    "number": "singular",
+    "translation": "your pen",
+    "arabic_word": "قَلْمَك"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "table, schedule, chart",
+    "arabic_word": "جَدْوَل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "plate",
+    "arabic_word": "طَبق"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "state, condition",
+    "arabic_word": "حال"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "dual",
+    "translation": "two",
+    "arabic_word": "إثنان"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "right (as in direction or oath)",
+    "arabic_word": "يَمِين"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the book",
+    "arabic_word": "الْكتاب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "materials",
+    "arabic_word": "مَواد"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the moon",
+    "arabic_word": "الْقمر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the path",
+    "arabic_word": "الصَّراط"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "fourteen",
+    "arabic_word": "أربعَة عَشر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "grandfather",
+    "arabic_word": "جَد"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "female doctor",
+    "arabic_word": "طَبِيبَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "mosque",
+    "arabic_word": "مَسجِدٌ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "my",
+    "gender": "male",
+    "number": "singular",
+    "translation": "my friend",
+    "arabic_word": "ياصدِيقي ؟"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "eleven",
+    "arabic_word": "أحدَ عَشر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "brother",
+    "arabic_word": "أَخ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "nine",
+    "arabic_word": "تِسعَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "beach",
+    "arabic_word": "شاطِئ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the camel",
+    "arabic_word": "الْجمل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "third person plural",
+    "gender": "male",
+    "number": "plural",
+    "translation": "their name",
+    "arabic_word": "اِسمُهُم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "spring",
+    "arabic_word": "رَبِيع"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "guest",
+    "arabic_word": "ضَيْف"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "hundred",
+    "arabic_word": "مَائَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "past",
+    "arabic_word": "ماضي"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "third person singular",
+    "gender": "female",
+    "number": "singular",
+    "translation": "her pen",
+    "arabic_word": "قَلَمَهَا"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "girl",
+    "arabic_word": "بِنت"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "family",
+    "arabic_word": "أُسرَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "life",
+    "arabic_word": "الحيَاة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "sentence",
+    "arabic_word": "جُمْلَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "carpet",
+    "arabic_word": "سِجَاد"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "peace",
+    "arabic_word": "سَلام"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "future time",
+    "arabic_word": "زَمَن المستَقبَل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the school book",
+    "arabic_word": "كِتاب المدرسَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "the sky",
+    "arabic_word": "السَمَاءُ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "world",
+    "arabic_word": "عَالَم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "examples",
+    "arabic_word": "أمثلة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "zero",
+    "arabic_word": "صَفر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "degree",
+    "arabic_word": "درجَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "cooking",
+    "arabic_word": "الطبخ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "future",
+    "arabic_word": "مُستَقبَل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "plural",
+    "translation": "weeks",
+    "arabic_word": "سَآبِيعُ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "fruit",
+    "arabic_word": "فاكهَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "dual",
+    "translation": "twelve",
+    "arabic_word": "إثنا عَشر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "T-shirt",
+    "arabic_word": "تِي شِيرت"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "Allah, the Self-Sufficient Master",
+    "arabic_word": "ٱللَّهُ ٱلصَّمَدُ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "list",
+    "arabic_word": "قائِمَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the grape",
+    "arabic_word": "الْعنب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "three hundred",
+    "arabic_word": "ثلاثَة مائَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "producer",
+    "arabic_word": "مُنتِج"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "third person plural",
+    "gender": "male",
+    "number": "singular",
+    "translation": "their pen",
+    "arabic_word": "قلَمَهُم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "Day off or holiday",
+    "arabic_word": "يَوْم العُطْلَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "the language",
+    "arabic_word": "اللُغَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "airplane",
+    "arabic_word": "طائِرَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "angel",
+    "arabic_word": "مَلَاك"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "sheep",
+    "arabic_word": "خَروف"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the prayer hall",
+    "arabic_word": "المُصَلَى"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "plumber",
+    "arabic_word": "سَبَاك"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "wives",
+    "arabic_word": "زوجات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "female engineer",
+    "arabic_word": "مُهندِسَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "plural",
+    "translation": "books",
+    "arabic_word": "كُتُب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "thousand",
+    "arabic_word": "ألف"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "chicken",
+    "arabic_word": "دَجاج"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "season",
+    "arabic_word": "مُوسِم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "your",
+    "gender": "male",
+    "number": "singular",
+    "translation": "your book",
+    "arabic_word": "كِتابُكَ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "lunch",
+    "arabic_word": "غداء"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "house",
+    "arabic_word": "بَيْت"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "self",
+    "arabic_word": "نَفس"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "uncle (paternal)",
+    "arabic_word": "عَم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person plural",
+    "gender": "male",
+    "number": "singular",
+    "translation": "our book",
+    "arabic_word": "كِتابُنَا"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "temperature",
+    "arabic_word": "حَرارَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "soldier",
+    "arabic_word": "جُندِي"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "structure",
+    "arabic_word": "بُنِيَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "moustache",
+    "arabic_word": "شارِب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the box",
+    "arabic_word": "الصّندوق"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "doer",
+    "arabic_word": "فاعِل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "ten schools",
+    "arabic_word": "عَشرْ مَدارِس"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "lord",
+    "arabic_word": "رَب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "anything",
+    "arabic_word": "أي شَيء"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "suffix -ia (used as an ending for nouns)",
+    "arabic_word": "يَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "husband",
+    "arabic_word": "زَوْج"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the rabbit",
+    "arabic_word": "الْأرنب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "Egypt",
+    "arabic_word": "مِصَر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "orange (feminine)",
+    "arabic_word": "بُرتُقالِيَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "beloved",
+    "arabic_word": "حَبِيبَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "television",
+    "arabic_word": "تِلفاز"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "project",
+    "arabic_word": "مَشروع"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "daughter",
+    "arabic_word": "إبْنَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "your (plural)",
+    "gender": "male",
+    "number": "singular",
+    "translation": "your book",
+    "arabic_word": "كِتابُكُم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "his",
+    "gender": "male",
+    "number": "singular",
+    "translation": "his book",
+    "arabic_word": "كِتابُهُ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "hump (of a camel)",
+    "arabic_word": "سَنَنام"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "once",
+    "arabic_word": "مَرَّة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "my",
+    "gender": "male",
+    "number": "singular",
+    "translation": "my gratitude",
+    "arabic_word": "شُكرِي"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "thief",
+    "arabic_word": "سارِق"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "house",
+    "arabic_word": "مَنزِل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person singular",
+    "gender": "female",
+    "number": "singular",
+    "translation": "myself",
+    "arabic_word": "نَفسِي"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "gratitude",
+    "arabic_word": "الشُكر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the grandfather",
+    "arabic_word": "الجد"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "insult",
+    "arabic_word": "شَتْمَ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "snow",
+    "arabic_word": "تَلج"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "Ahmed Tarek",
+    "arabic_word": "أحمدطارق"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "girls",
+    "arabic_word": "بَنات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "sweeper",
+    "arabic_word": "كانِس"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "hours",
+    "arabic_word": "ساعات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "hour",
+    "arabic_word": "ساعَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "singular",
+    "arabic_word": "مُفَرد"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "coldness",
+    "arabic_word": "بِرُودَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "six",
+    "arabic_word": "سِتَّة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "plural",
+    "translation": "thirty",
+    "arabic_word": "ثلاثُون"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "benefit",
+    "arabic_word": "فائِد"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "mathematics",
+    "arabic_word": "الرِياضِيَّات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "lettuce",
+    "arabic_word": "الْخس"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "accountant",
+    "arabic_word": "مُحاسب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "substance",
+    "arabic_word": "مادَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "schools",
+    "arabic_word": "مَدارِس"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "room",
+    "arabic_word": "غُرفَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "bed",
+    "arabic_word": "سَرِير"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "table",
+    "arabic_word": "مائِدَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "third person plural",
+    "gender": "male",
+    "number": "singular",
+    "translation": "their book",
+    "arabic_word": "كِتابُهُم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "restaurant",
+    "arabic_word": "مَطعم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "clothes",
+    "arabic_word": "ملابِس"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "eight",
+    "arabic_word": "ثَمانِيَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "pen",
+    "arabic_word": "قَلْم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "applications engineer",
+    "arabic_word": "مُهندِس تَطْبِيقَات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "Switzerland",
+    "arabic_word": "سوِيسرا"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "summer",
+    "arabic_word": "صَيْف"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "Professor Diyan",
+    "arabic_word": "أُستاذ دِيان"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "camel",
+    "arabic_word": "جَمَل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "twenty",
+    "arabic_word": "عِشرِين"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "plural",
+    "translation": "doctors",
+    "arabic_word": "أَطِباء"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "programming",
+    "arabic_word": "بَرمَجَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "food",
+    "arabic_word": "مَأكُول"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "the sweeper",
+    "arabic_word": "الكانِسة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "trousers",
+    "arabic_word": "بَنطَلُون"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "worker",
+    "arabic_word": "عامِل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "person",
+    "arabic_word": "شَخص"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "dual",
+    "translation": "two books",
+    "arabic_word": "كِتابان"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "unknown",
+    "arabic_word": "للمجهول"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "ten",
+    "arabic_word": "عَشرَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "engineer",
+    "arabic_word": "مُهندِس"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "father",
+    "arabic_word": "وَالِد"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "dishes",
+    "arabic_word": "أطباق"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "motorcycle",
+    "arabic_word": "موتوسيكِل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person singular",
+    "gender": "female",
+    "number": "singular",
+    "translation": "my sister",
+    "arabic_word": "أُختِي"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "his",
+    "gender": "male",
+    "number": "singular",
+    "translation": "his name",
+    "arabic_word": "اِسمُهُ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "paternal aunt",
+    "arabic_word": "عَمَّة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "shirt",
+    "arabic_word": "قَمِيص"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "salad",
+    "arabic_word": "سَلطة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "moment",
+    "arabic_word": "لَحظَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person plural",
+    "gender": "male",
+    "number": "singular",
+    "translation": "our name",
+    "arabic_word": "اِسمُنا"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person singular",
+    "gender": "male",
+    "number": "singular",
+    "translation": "my pen",
+    "arabic_word": "قَلْمِي"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "schools",
+    "arabic_word": "مَدرسات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person plural",
+    "gender": "male",
+    "number": "singular",
+    "translation": "our pen",
+    "arabic_word": "قَلمَنَا"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the night",
+    "arabic_word": "الليْل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "weather",
+    "arabic_word": "جَوْ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "work",
+    "arabic_word": "شُغْل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "sofa",
+    "arabic_word": "أرِيكَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "subject",
+    "arabic_word": "مُبتَدأ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "meat",
+    "arabic_word": "لَحم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "winds",
+    "arabic_word": "رِيَاح"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "thirteen",
+    "arabic_word": "ثلاثَة عَشر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "rice",
+    "arabic_word": "أَرُزّ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "storm",
+    "arabic_word": "عَاصِفَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "five female engineers",
+    "arabic_word": "خَمسَة مُهندِسات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "plural",
+    "translation": "the worlds",
+    "arabic_word": "العَالَمِين"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "years",
+    "arabic_word": "سِنِين"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "autumn",
+    "arabic_word": "خَرِيف"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "mirror",
+    "arabic_word": "مِرآة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "dual",
+    "translation": "two hundred",
+    "arabic_word": "مائَتان"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "second person singular",
+    "gender": "male",
+    "number": "singular",
+    "translation": "your name",
+    "arabic_word": "اِسمُكَ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "three",
+    "arabic_word": "ثَلاثْ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "share, portion, class session",
+    "arabic_word": "حِصَّة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "weapon",
+    "arabic_word": "سِلاح"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "applications",
+    "arabic_word": "تطبيقات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "office",
+    "arabic_word": "مَكتَب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "thousands",
+    "arabic_word": "أَلاف"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "son",
+    "arabic_word": "إبن"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person singular",
+    "gender": "male",
+    "number": "singular",
+    "translation": "my name",
+    "arabic_word": "اِسمِي"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "plural",
+    "translation": "engineers",
+    "arabic_word": "مُهندِسُون"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "king",
+    "arabic_word": "مَلك"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "state",
+    "arabic_word": "دَوْلَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "news",
+    "arabic_word": "خَبَر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "sun",
+    "arabic_word": "شَمس"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "Dianzheeka",
+    "arabic_word": "ديانجسيكا"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "salary",
+    "arabic_word": "راتِب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "five",
+    "arabic_word": "خَمسَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "the Arabic (language)",
+    "arabic_word": "العربية"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "bag",
+    "arabic_word": "حَقيبَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "north",
+    "arabic_word": "شِمال"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "times",
+    "arabic_word": "مَرَّات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "school",
+    "arabic_word": "مَدرَسَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "year",
+    "arabic_word": "سَنَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "religion",
+    "arabic_word": "دِيان"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "bathroom",
+    "arabic_word": "حمَّام"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "resident",
+    "arabic_word": "ساكِن"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "plural",
+    "translation": "people",
+    "arabic_word": "أشخاص"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "gender",
+    "arabic_word": "جِنس"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "airport",
+    "arabic_word": "مَطار"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "my nationality",
+    "arabic_word": "جينسيتي"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "man",
+    "arabic_word": "رَجل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "employee",
+    "arabic_word": "مُوْظَّف"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the morning",
+    "arabic_word": "الصباح"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "plural",
+    "translation": "they",
+    "arabic_word": "لَيْهَم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "Ahmad",
+    "arabic_word": "أحمَدُ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "player",
+    "arabic_word": "لاعِب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "wallet",
+    "arabic_word": "مَحفظَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "three",
+    "arabic_word": "ثلاثَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "diving",
+    "arabic_word": "غوص"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "one",
+    "arabic_word": "أَحد"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "work",
+    "arabic_word": "عَمَل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "Cottage Cheese",
+    "arabic_word": "جُبْن قَرِيش"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the statue",
+    "arabic_word": "التّمثال"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "problem",
+    "arabic_word": "مُشكِلَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "middle",
+    "arabic_word": "وَسط"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "fast",
+    "arabic_word": "صوم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "twenty",
+    "arabic_word": "عِشرُون"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "city",
+    "arabic_word": "مَدينَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "boy",
+    "arabic_word": "وَلد"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person singular",
+    "gender": "male",
+    "number": "singular",
+    "translation": "alone",
+    "arabic_word": "وَحدي"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "Alexandria",
+    "arabic_word": "الأسكَندَرِيَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "feminine",
+    "arabic_word": "مُؤنَّث"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "the sun",
+    "arabic_word": "الشَمْسُ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "furniture",
+    "arabic_word": "أثاث"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "plural",
+    "translation": "acts",
+    "arabic_word": "فِعَل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "nationality",
+    "arabic_word": "جِنسِيَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "plural",
+    "translation": "colleagues",
+    "arabic_word": "زُملاء"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "climate",
+    "arabic_word": "مُناخ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "carrier",
+    "arabic_word": "الناقِل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "friend",
+    "arabic_word": "صَدِيق"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "weather",
+    "arabic_word": "طَقس"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person singular",
+    "gender": "female",
+    "number": "singular",
+    "translation": "my nationality",
+    "arabic_word": "جِنسِيَتِي"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "The Eternal Refuge",
+    "arabic_word": "الصَّمَد"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "dual",
+    "translation": "two schools",
+    "arabic_word": "مَدرَستان"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "meal",
+    "arabic_word": "وجبة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "military",
+    "arabic_word": "العَسكَرِيَّة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "dinner",
+    "arabic_word": "عَشاء"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person singular",
+    "gender": "male",
+    "number": "singular",
+    "translation": "my book",
+    "arabic_word": "كِتَابِي"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "female engineers",
+    "arabic_word": "مُهندِسات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "painting",
+    "arabic_word": "لَوْحَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "nineteen",
+    "arabic_word": "تِسعَة عَشر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "her",
+    "gender": "female",
+    "number": "singular",
+    "translation": "her work",
+    "arabic_word": "شُغلْهَا"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "his",
+    "gender": "male",
+    "number": "singular",
+    "translation": "his pen",
+    "arabic_word": "قَلْمُه"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "line or row",
+    "arabic_word": "صَف"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "corn",
+    "arabic_word": "الذُّرَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "notebook",
+    "arabic_word": "دفتر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the same thing",
+    "arabic_word": "نفَس الشَيء"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "rybal",
+    "arabic_word": "رِبال"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "husband",
+    "arabic_word": "الزوج"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "doctor",
+    "arabic_word": "طَبِيب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "mango",
+    "arabic_word": "المانجُو"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "Ruqa script",
+    "arabic_word": "خَط الرِقعَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "seven",
+    "arabic_word": "سَبْعَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "mushroom",
+    "arabic_word": "فِطر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "morning",
+    "arabic_word": "صباح"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "newspaper",
+    "arabic_word": "صَحِيفَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "beloved",
+    "arabic_word": "حَبِيب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "seventeen",
+    "arabic_word": "سَبعَة عَشر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "Day of Judgment",
+    "arabic_word": "يَوْمِ الدِّين"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "lesson",
+    "arabic_word": "دَرس"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "mother",
+    "arabic_word": "أُم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "liquid",
+    "arabic_word": "سائِل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person singular",
+    "gender": "male",
+    "number": "singular",
+    "translation": "my house",
+    "arabic_word": "مَنزِلِي"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "plural",
+    "translation": "guests",
+    "arabic_word": "ضِيوف"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "week",
+    "arabic_word": "أسبُوع"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "care",
+    "arabic_word": "عايةً"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "fifteen",
+    "arabic_word": "خَمسَة عَشر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "Riham",
+    "arabic_word": "ريهام"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "God",
+    "arabic_word": "الله"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "houses",
+    "arabic_word": "دُور"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "female doctors",
+    "arabic_word": "طَبِيبات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "four",
+    "arabic_word": "أربَعَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "moments",
+    "arabic_word": "لَحظَات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "question",
+    "arabic_word": "سُؤال"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "victory",
+    "arabic_word": "فُوز"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "Muhammad",
+    "arabic_word": "محمد"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": "her",
+    "gender": "female",
+    "number": "singular",
+    "translation": "her name",
+    "arabic_word": "اِسمُهَا"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "taste",
+    "arabic_word": "طَعم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "winter",
+    "arabic_word": "شِتاء"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "bread",
+    "arabic_word": "خُبْز"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "rider",
+    "arabic_word": "راكِب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "Jessica",
+    "arabic_word": "جيسيكا"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "the present tense verb",
+    "arabic_word": "الفعل المُضَارِع"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "the world",
+    "arabic_word": "الدُنِيا"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "active participle",
+    "arabic_word": "اِسم الفاعِل"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "prayer",
+    "arabic_word": "صَلاَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "Naskh script",
+    "arabic_word": "خَط النّسَخ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "moon",
+    "arabic_word": "قَمَر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "rain",
+    "arabic_word": "مَطر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "wife",
+    "arabic_word": "زَوْجَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "waiting",
+    "arabic_word": "إنتِظَار"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "equal",
+    "arabic_word": "كُفُوَاً"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "watermelon",
+    "arabic_word": "بَطيخ"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "drink",
+    "arabic_word": "مَشرُوب"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "apartment",
+    "arabic_word": "شَقَّة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "bag",
+    "arabic_word": "شَنطَة"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "plural",
+    "translation": "ice creams",
+    "arabic_word": "مُثَلجات"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "traveler",
+    "arabic_word": "مُسافِر"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "male",
+    "number": "singular",
+    "translation": "day",
+    "arabic_word": "يَوم"
+  },
+  {
+    "category": "noun",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": "female",
+    "number": "singular",
+    "translation": "car",
+    "arabic_word": "سَيَّارَة"
+  }
+]

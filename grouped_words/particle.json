@@ -1,0 +1,682 @@
+[
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "no",
+    "arabic_word": "لَا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "did not",
+    "arabic_word": "لَم"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "they/them",
+    "arabic_word": "هُمَّ"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "there",
+    "arabic_word": "هُناك"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "you (plural)",
+    "arabic_word": "أنتُم"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "beside",
+    "arabic_word": "بِجانِب"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "with you",
+    "arabic_word": "عِندَك"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "with",
+    "arabic_word": "مَعَ"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "at",
+    "arabic_word": "عِنْد"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "I have",
+    "arabic_word": "لدي"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "other than",
+    "arabic_word": "غَيرَ"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "First person pronoun",
+    "arabic_word": "ضَمِير المُتَكَلِم"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "yes",
+    "arabic_word": "نَعَم"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "this",
+    "arabic_word": "هَذَا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "which",
+    "arabic_word": "أَيْ"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "it is possible that",
+    "arabic_word": "مُمكن أن"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "to the school",
+    "arabic_word": "لِلَمدرسَة"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "a lot of",
+    "arabic_word": "كَثِيراً مِن"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "here",
+    "arabic_word": "هُنا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "more than",
+    "arabic_word": "أكثر مِن"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "what",
+    "arabic_word": "مَا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "in",
+    "arabic_word": "فِي"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "how much",
+    "arabic_word": "بِكَم"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "yes",
+    "arabic_word": "نَعم ؟"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Thank you",
+    "arabic_word": "شُكراً"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person plural",
+    "gender": null,
+    "number": null,
+    "translation": "our",
+    "arabic_word": "نَا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "I",
+    "arabic_word": "انا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "and",
+    "arabic_word": "وا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "Is it...?, Do...?",
+    "arabic_word": "هَل …?"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "why",
+    "arabic_word": "لِماذا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "only",
+    "arabic_word": "فقط"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "you",
+    "arabic_word": "أنتَ"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "you (masculine)",
+    "arabic_word": "إنتَ"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "beside you",
+    "arabic_word": "بِجانِبُك"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "may, indeed, already",
+    "arabic_word": "قَد"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "will",
+    "arabic_word": "سَوْفَ"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "which",
+    "arabic_word": "الَّتِي"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "to the school",
+    "arabic_word": "لِ المدرسَة"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "perhaps",
+    "arabic_word": "رُبَّما"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "how much",
+    "arabic_word": "كَم"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "uh-oh",
+    "arabic_word": "أا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "I",
+    "arabic_word": "أنَا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "what",
+    "arabic_word": "مَاذَا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "he",
+    "arabic_word": "هُوَّ"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "and not / nor",
+    "arabic_word": "وَلا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "after that",
+    "arabic_word": "بَعد ذَلِك"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "this (feminine singular)",
+    "arabic_word": "هَذِهِ"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "where",
+    "arabic_word": "أيْنَ"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "we",
+    "arabic_word": "نَحنُ"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "the",
+    "arabic_word": "ال"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "because of",
+    "arabic_word": "بِسَبَب"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "if",
+    "arabic_word": "إذا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "well",
+    "arabic_word": "بِخَير"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "we have",
+    "arabic_word": "لدينا"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "but",
+    "arabic_word": "لَكِن"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "second person pronoun",
+    "arabic_word": "ضَمِير المُخاطَب"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "will not",
+    "arabic_word": "لَن"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "how",
+    "arabic_word": "كَيْفَ"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "what",
+    "arabic_word": "شُو"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "who",
+    "arabic_word": "مَن"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": "first person singular",
+    "gender": null,
+    "number": null,
+    "translation": "I have",
+    "arabic_word": "عِندي"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "indeed",
+    "arabic_word": "لَقد"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "to",
+    "arabic_word": "إلى"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "which",
+    "arabic_word": "الذِي"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "or",
+    "arabic_word": "أَو"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "when",
+    "arabic_word": "عِندَما"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "I we you (m) you (f) you (pl)",
+    "arabic_word": "أنا نَحنُ أنتَ أنتِ أنتُم"
+  },
+  {
+    "category": "particle",
+    "base_form": null,
+    "tense": null,
+    "possession": null,
+    "gender": null,
+    "number": null,
+    "translation": "where",
+    "arabic_word": "حَيْثُ"
+  }
+]
